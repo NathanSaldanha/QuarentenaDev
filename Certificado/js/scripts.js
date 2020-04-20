@@ -7,9 +7,9 @@ function gerar() {
 
   listLink=
   [
-    "https://github.com/NathanSaldanha/QuarentenaDev/tree/master/Calculo%26Funcoes",
+    "https://github.com/NathanSaldanha/QuarentenaDev/tree/master/Calculo%20e%20funcoes",
     "https://github.com/NathanSaldanha/QuarentenaDev/tree/master/Condicoes",
-    "https://github.com/NathanSaldanha/QuarentenaDev/tree/master/Contadores%26Loops",
+    "https://github.com/NathanSaldanha/QuarentenaDev/tree/master/Contadores%20e%20loops",
     "https://github.com/NathanSaldanha/QuarentenaDev/tree/master/Certificado"
   ]
 
