@@ -9,7 +9,8 @@ function gerar() {
   [
     "https://github.com/NathanSaldanha/QuarentenaDev/tree/master/Calculo%20e%20Fun%C3%A7%C3%B5es",
     "https://github.com/NathanSaldanha/QuarentenaDev/tree/master/Condi%C3%A7%C3%B5es",
-    "https://github.com/NathanSaldanha/QuarentenaDev/tree/master/Contadores%20e%20Loops"
+    "https://github.com/NathanSaldanha/QuarentenaDev/tree/master/Contadores%20e%20Loops",
+    "https://github.com/NathanSaldanha/QuarentenaDev/tree/master/Certificado"
   ]
 
   listLinkHtml = ""
@@ -20,8 +21,9 @@ function gerar() {
   }
 
   document.body.innerHTML= 
-  `${htmlCertificado}  
-  <ol>  
-    ${listLinkHtml}
-  </ol>`  
+    `${htmlCertificado}  
+    <ol>  
+      ${listLinkHtml}
+    </ol>`
+  print();
 }
